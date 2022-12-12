@@ -2,7 +2,7 @@
 
 # USELESS SOUND
 
- [Useless-sound](https://useless-sound.netlify.app/) Is a useless audiovisual web page utilizing web audio kit to emulate a theremin inside the web browser. 
+ [Useless-sound](https://useless-sound.netlify.app/) Is a useless audiovisual web page utilizing web audio api to emulate a theremin inside the web browser. 
  
 
 # Code Review
